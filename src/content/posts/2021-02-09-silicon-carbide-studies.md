@@ -6,4 +6,4 @@ date: 2021-02-08 22:39
 description: Silicon Carbide Studies
 featuredImage: /assets/img_5631.jpg
 ---
-AHHHHH
+![](/assets/img_5642.jpg "Conditions for Release 2")
