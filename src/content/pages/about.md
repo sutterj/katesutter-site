@@ -13,6 +13,6 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 
 ### EDUCATION
 
-**Allegheny College, Meadville, PA 2020**
+**Allegheny College    Meadville, PA 2020**
 
 Bachelor of Science: Biochemistry
