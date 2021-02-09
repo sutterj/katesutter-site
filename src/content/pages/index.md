@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Kate Sutter
+tagline: Clay Chemistry Enthusiast
+featuredImage: /assets/img_0172.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Kate Sutter is a ceramic artist working in Lubbock, Texas. Originally from Pennsylvania, she received a Bachelor in Science Biochemistry degree from Allegheny College in 2020. She is currently pursuing a Master of Fine Arts at Texas Tech University.
