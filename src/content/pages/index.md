@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Kate Sutter is a ceramic artist working in Lubbock, Texas. Originally from Pennsylvania, she received a Bachelor in Science Biochemistry degree from Allegheny College in 2020. She is currently pursuing a Master of Fine Arts at Texas Tech University.
+Kate Sutter is a ceramic artist working in Lubbock, Texas. Originally from Pennsylvania, she received a Bachelor in Science Biochemistry degree from Allegheny College in 2020. She is currently pursuing a Masters of Fine Arts at Texas Tech University.
