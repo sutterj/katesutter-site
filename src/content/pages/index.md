@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Kate Sutter
 tagline: Clay Chemistry Enthusiast
-featuredImage: /assets/img_0172.jpeg
+featuredImage: /assets/img_0172.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
