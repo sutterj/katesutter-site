@@ -49,15 +49,15 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 
 ### WORK EXPERIENCE
 
-* **Ceramics Studio Technician,** Texas Tech University
-* **Wood Shop Technician,** Texas Tech University
-* **Teaching Assistant: Art Appreciation**, Texas Tech University
-* **Research Assistant, Garcia Lab,** Allegheny College
-* **Ceramics Studio Technician,** Allegheny College
-* **Teaching Assistant: Cellular Biology**, **Nelson Lab**, Allegheny College
-* **Chemistry Tutoring: Beta Chi Service Hours,** Allegheny College
-  * Introductory chemistry I and II
-  * Organic chemistry I and II
-  * Physical chemistry
-  * Biochemistry
-  * Biochemical metabolism
+- **Ceramics Studio Technician,** Texas Tech University
+- **Wood Shop Technician,** Texas Tech University
+- **Teaching Assistant: Art Appreciation**, Texas Tech University
+- **Research Assistant, Garcia Lab,** Allegheny College
+- **Ceramics Studio Technician,** Allegheny College
+- **Teaching Assistant: Cellular Biology**, **Nelson Lab**, Allegheny College
+- **Chemistry Tutoring: Beta Chi Service Hours,** Allegheny College
+  - Introductory chemistry I and II
+  - Organic chemistry I and II
+  - Physical chemistry
+  - Biochemistry
+  - Biochemical metabolism
