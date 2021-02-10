@@ -51,9 +51,7 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 
 * **Ceramics Studio Technician,** Texas Tech University
 * **Wood Shop Technician,** Texas Tech University
-* **Teaching Assistant: Art Appreciation**, Texas Tech University23
-
-
+* **Teaching Assistant: Art Appreciation**, Texas Tech University
 * **Research Assistant, Garcia Lab,** Allegheny College
 * **Ceramics Studio Technician,** Allegheny College
 * **Teaching Assistant: Cellular Biology**, **Nelson Lab**, Allegheny College
