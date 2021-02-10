@@ -25,7 +25,7 @@ const styles = {
 }
 
 const Pagination = (props) => (
-  <div 
+  <div
     className="pagination -post"
     sx={styles.pagination}
   >
@@ -85,8 +85,8 @@ const Post = ({ data, pageContext }) => {
             <time>{frontmatter.date}</time>
           </section>
           {Image ? (
-            <Img 
-              fluid={Image} 
+            <Img
+              fluid={Image}
               objectFit="cover"
               objectPosition="50% 50%"
               alt={frontmatter.title + ' - Featured image'}
@@ -94,7 +94,7 @@ const Post = ({ data, pageContext }) => {
             />
           ) : ""}
         </header>
-        
+
         <div
           className="portfolio-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -111,7 +111,7 @@ export default Post
 
 export const pageQuery = graphql`
   query PortfolioPostQuery($id: String!) {
-    markdownRemark( 
+    markdownRemark(
       id: { eq: $id }
     ) {
       id
@@ -124,7 +124,7 @@ export const pageQuery = graphql`
         description
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 1980, maxHeight: 968, quality: 80, srcSetBreakpoints: [350, 700, 1050, 1400]) {
+            fluid(maxWidth: 1980, quality: 80, srcSetBreakpoints: [350, 700, 1050, 1400]) {
               ...GatsbyImageSharpFluid
               ...GatsbyImageSharpFluidLimitPresentationSize
             }
