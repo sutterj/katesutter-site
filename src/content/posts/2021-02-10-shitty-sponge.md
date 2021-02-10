@@ -1,5 +1,5 @@
 ---
-template: blog-post
+template: portfolio-post
 title: Shitty Sponge
 slug: /shitty-sponge
 date: 2020-11-07 18:15
