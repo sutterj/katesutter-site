@@ -11,18 +11,18 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 
 # Abbreviated Curriculum Vitae
 
-## EDUCATION
+### EDUCATION
 
 * **Allegheny College    Meadville, PA 2020**
 
   * Bachelor of Science: Biochemistry
 
-## SELECTED GROUP EXHIBITIONS
+### SELECTED GROUP EXHIBITIONS
 
 * *Boxed In*, Virtual Exhibition Hosted by Allegheny Art Galleries **2020**
 * *Previously Unknown Fetishes: Feat. Stuff*, Allegheny Art Galleries, Meadville, PA **2019**
 
-## SELECTED RESEARCH PRESENTATIONS
+### SELECTED RESEARCH PRESENTATIONS
 
 * **Biochemistry Senior Comprehensive Project Lecture 2020**
 
@@ -40,14 +40,14 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 
   * *Regulating the DEAD*
 
-## AWARDS, HONORS, SCHOLARSHIPS
+### AWARDS, HONORS, SCHOLARSHIPS
 
 * CH Foundation Graduate Recruitment Fellowship 2020-2021
 * Helen Jones Foundation Art Talent Scholarship 2020-2021
 * Undergraduate Research, Scholarship and Creative Activities Gateway Award 2019
 * Allegheny College Trustee Scholarship 2016-2020
 
-## WORK EXPERIENCE
+### WORK EXPERIENCE
 
 * **Ceramics Studio Technician,** Texas Tech University
 * **Wood Shop Technician,** Texas Tech University
