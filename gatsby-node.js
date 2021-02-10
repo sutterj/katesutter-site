@@ -4,8 +4,8 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
-  //const blogPost = path.resolve(`./src/templates/blog-post.js`)
-  const blogList = path.resolve(`./src/templates/blog-list.js`)
+  //const portfolioPost = path.resolve(`./src/templates/portfolio-post.js`)
+  const portfolioList = path.resolve(`./src/templates/portfolio-list.js`)
 
   const result = await graphql(`
     {
@@ -34,7 +34,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   // Create markdown pages
   const posts = result.data.allMarkdownRemark.edges
-  let blogPostsCount = 0
+  let portfolioPostsCount = 0
 
   posts.forEach((post, index) => {
     const id = post.node.id
@@ -54,20 +54,20 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       },
     })
 
-    // Count blog posts.
-    if (post.node.frontmatter.template === 'blog-post') {
-      blogPostsCount++
+    // Count portfolio posts.
+    if (post.node.frontmatter.template === 'portfolio-post') {
+      portfolioPostsCount++
     }
   })
 
-  // Create blog-list pages
+  // Create portfolio-list pages
   const postsPerPage = 9
-  const numPages = Math.ceil(blogPostsCount / postsPerPage)
+  const numPages = Math.ceil(portfolioPostsCount / postsPerPage)
 
   Array.from({ length: numPages }).forEach((_, i) => {
     createPage({
-      path: i === 0 ? `/blog` : `/blog/${i + 1}`,
-      component: blogList,
+      path: i === 0 ? `/portfolio` : `/portfolio/${i + 1}`,
+      component: portfolioList,
       context: {
         limit: postsPerPage,
         skip: i * postsPerPage,
