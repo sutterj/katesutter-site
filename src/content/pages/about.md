@@ -9,10 +9,82 @@ As I transition from experimentation with living systems to non-living systems, 
 
 My work is a continuously evolving experiment, each discovery driving the next. I find enjoyment in the unknown and embrace the chance of failure that comes with the process of experimentation.
 
+ 
+
 # Abbreviated Curriculum Vitae
 
-### EDUCATION
+#### EDUCATION
 
 **Allegheny College    Meadville, PA 2020**
 
 Bachelor of Science: Biochemistry
+
+
+
+#### SELECTED GROUP EXHIBITIONS
+
+*Boxed In*, Virtual Exhibition, Allegheny Art Galleries **2020**
+
+*Previously Unknown Fetishes: Feat. Stuff*, Allegheny Art Galleries, Meadville, PA **2019**
+
+
+
+#### SELECTED RESEARCH PRESENTATIONS
+
+**Biochemistry Senior Comprehensive Project Lecture 2020**
+
+o *Kinetic Analysis of ATP Association to the DEAD-Box Protein Rok1p, in the Presence of RNA*
+
+**Rustbelt RNA Meeting at Case Western Reserve University, Cleveland, OH** **2019**
+
+o *Comparative Analysis of ATP Dissociation from Rok1p Truncated Variants in the Presence of RNA*
+
+**American Chemical Society Spring National Meeting, Orlando, FL** **2019**
+
+o *Kinetic Analysis of ATP Dissociation from a Variation of Rok1p: A DEAD-Box Protein*
+
+**Allegheny College Research Seminar: Summer Lectures, Meadville, PA 2019**
+
+o *The opening and closing of a DEAD-box mystery*
+
+**Allegheny College Summer Research Lecture Series, Meadville, PA** **2018**
+
+o *Regulating the DEAD*
+
+
+
+#### AWARDS, HONORS, SCHOLARSHIPS
+
+**CH Foundation Graduate Recruitment Fellowship** **2020-2021**
+
+**Helen Jones Foundation Art Talent Scholarship 2020-2021**
+
+**Undergraduate Research, Scholarship and Creative Activities Gateway Award 2019**
+
+**Allegheny College Trustee Scholarship 2016-2020**
+
+
+
+#### WORK EXPERIENCE 
+
+**Ceramics Studio Technician,** Texas Tech University
+
+**Wood Shop Technician,** Texas Tech University
+
+**Teaching Assistant: Art Appreciation**, Texas Tech University
+
+**Research Assistant, Garcia Lab,** Allegheny College
+
+**Ceramics Studio Technician,** Allegheny College
+
+**Teaching Assistant: Cellular Biology**, **Nelson Lab**, Allegheny College 
+
+**Chemistry Tutoring: Beta Chi Service Hours,** Allegheny College
+
+Subjects:
+
+* Introductory chemistry I and II
+* Organic chemistry I and II
+* Physical chemistry
+* Biochemistry
+* Biochemical metabolism
