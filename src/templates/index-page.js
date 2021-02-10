@@ -21,7 +21,7 @@ export const pageQuery = graphql`
         tagline
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 480, maxHeight: 380, quality: 80, srcSetBreakpoints: [960, 1440]) {
+            fluid(maxWidth: 480, quality: 80, srcSetBreakpoints: [960, 1440]) {
               ...GatsbyImageSharpFluid
             }
             sizes {
@@ -70,7 +70,7 @@ const HomePage = ({ data }) => {
       <div className="home-banner grids col-1 sm-2">
         <div>
           <h1 className="title">{frontmatter.title}</h1>
-          <p 
+          <p
             className="tagline"
             sx={{
               color: 'muted'
@@ -79,8 +79,8 @@ const HomePage = ({ data }) => {
             {frontmatter.tagline}
           </p>
           <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
-          <Link 
-            to={frontmatter.cta.ctaLink} 
+          <Link
+            to={frontmatter.cta.ctaLink}
             className="button"
             sx={{
               variant: 'links.button'
@@ -94,8 +94,8 @@ const HomePage = ({ data }) => {
         </div>
         <div>
           {Image ? (
-            <Img 
-              fluid={Image} 
+            <Img
+              fluid={Image}
               alt={frontmatter.title + ' - Featured image'}
               className="featured-image"
             />
