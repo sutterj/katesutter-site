@@ -9,6 +9,7 @@ As I transition from experimentation with living systems to non-living systems, 
 
 My work is a continuously evolving experiment, each discovery driving the next. I find enjoyment in the unknown and embrace the chance of failure that comes with the process of experimentation.
 
+
 ## Abbreviated Curriculum Vitae
 
 ### EDUCATION
@@ -55,9 +56,9 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 - **Research Assistant, Garcia Lab,** Allegheny College
 - **Ceramics Studio Technician,** Allegheny College
 - **Teaching Assistant: Cellular Biology**, **Nelson Lab**, Allegheny College
-- **Chemistry Tutoring: Beta Chi Service Hours,** Allegheny College
-  - Introductory chemistry I and II
-  - Organic chemistry I and II
-  - Physical chemistry
+- **Chemistry Tutoring: Beta Chi Service Hours,** All
+  - Introductory Chemistry I and II
+  - Organic Chemistry I and II
+  - Physical Chemistry
   - Biochemistry
-  - Biochemical metabolism
+  - Biochemical Metabolism
