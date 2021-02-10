@@ -115,7 +115,7 @@ class PortfolioIndex extends React.Component {
       <Layout className="portfolio-page">
         <SEO
           title={"Portfolio — Page " + currentPage + " of " + numPages}
-          description={"Stackrole base portfolio page " + currentPage + " of " + numPages }
+          description={"Portfolio — Page " + currentPage + " of " + numPages}
         />
         <h1>Portfolio</h1>
         <div className="grids col-1 sm-2 lg-3">
