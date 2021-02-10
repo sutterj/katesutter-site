@@ -56,6 +56,7 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 * **Ceramics Studio Technician,** Allegheny College
 * **Teaching Assistant: Cellular Biology**, **Nelson Lab**, Allegheny College
 * **Chemistry Tutoring: Beta Chi Service Hours,** Allegheny College
+
   * Introductory chemistry I and II
   * Organic chemistry I and II
   * Physical chemistry
