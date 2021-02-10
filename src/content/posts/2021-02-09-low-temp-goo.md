@@ -1,5 +1,5 @@
 ---
-template: blog-post
+template: portfolio-post
 title: Low Temp Goo
 slug: /low-temp-goo
 date: 2021-02-08 23:05

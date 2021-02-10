@@ -239,7 +239,7 @@ article iframe {
 article img {
 	max-width: 100%;
 }
-.blog-post-content {
+.portfolio-post-content {
 	max-width: 70ch;
 	margin:0 auto;
 	padding: 20px;
@@ -247,7 +247,7 @@ article img {
 	font-size: 20px;
 }
 
-.blog-post {
+.portfolio-post {
 	.featured-image {
 		border-radius: 12px;
 	}
@@ -297,7 +297,7 @@ article img {
 
 // Page
 .page,
-.blog-page,
+.portfolio-page,
 .contact-page,
 .thanks-page,
 .not-found-page {

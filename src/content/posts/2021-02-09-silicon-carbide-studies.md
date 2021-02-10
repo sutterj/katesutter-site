@@ -1,5 +1,5 @@
 ---
-template: blog-post
+template: portfolio-post
 title: Silicon Carbide Studies
 slug: /silicon-carbide-studies
 date: 2020-11-15 00:00
