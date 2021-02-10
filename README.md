@@ -4,7 +4,7 @@
 
 # Foundation
 
-A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifyCMS].
+A starter to launch your blazing fast personal website and a portfolio, Built with [Gatsby][gatsby] and [Netlify CMS][netlifyCMS].
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
 
@@ -13,11 +13,11 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 [![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://foundation.stackrole.com)
 
 ## 👌 Features
-- A Blog and Personal website with Netlify CMS.
+- A Portfolio and Personal website with Netlify CMS.
 - Responsive Web Design
 - Dark / Light Mode
 - Customize content of Homepage, About and Contact page.
-- Add / Modify / Delete blog posts.
+- Add / Modify / Delete portfolio posts.
 - Edit website settings, Add Google Analytics and make it your own all with in the CMS.
 - SEO Optimized
 - Social media icons
@@ -57,7 +57,7 @@ This would fork `gatsby-starter-foundation` to your Github account and start bui
 - Now, goto to **site-name.netlify.app/admin/**, and login with your credentials.
 
 ## 📝 Editing content and Adding posts
-Once you are in your Netlify CMS, you can navigate to Posts and Pages. Here you will find a list of existing pages and posts. 
+Once you are in your Netlify CMS, you can navigate to Posts and Pages. Here you will find a list of existing pages and posts.
 
 You can select any existing post or page to start editing or add a **New Post**. Have fun :)
 
@@ -141,9 +141,9 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 
 ## 🙏 Thank you
-We really appreciate you taking time to build your website with our `gatsby-starter-foundation`. 
+We really appreciate you taking time to build your website with our `gatsby-starter-foundation`.
 
-I would love to get your feedback and contributions. 
+I would love to get your feedback and contributions.
 
 Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack website, our DM's are open. And do not forget to share you website with me 😊
 
