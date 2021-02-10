@@ -23,45 +23,45 @@ Bachelor of Science: Biochemistry
 
 #### SELECTED GROUP EXHIBITIONS
 
-*Boxed In*, Virtual Exhibition, Allegheny Art Galleries **2020**
+ *   Boxed In*, Virtual Exhibition, Allegheny Art Galleries **2020**
 
-*Previously Unknown Fetishes: Feat. Stuff*, Allegheny Art Galleries, Meadville, PA **2019**
+ *   Previously Unknown Fetishes: Feat. Stuff*, Allegheny Art Galleries, Meadville, PA **2019**
 
 
 
 #### SELECTED RESEARCH PRESENTATIONS
 
-**Biochemistry Senior Comprehensive Project Lecture 2020**
+ **   Biochemistry Senior Comprehensive Project Lecture 2020**
 
-o *Kinetic Analysis of ATP Association to the DEAD-Box Protein Rok1p, in the Presence of RNA*
+*Kinetic Analysis of ATP Association to the DEAD-Box Protein Rok1p, in the Presence of RNA*
 
-**Rustbelt RNA Meeting at Case Western Reserve University, Cleveland, OH** **2019**
+ **   Rustbelt RNA Meeting at Case Western Reserve University, Cleveland, OH** **2019**
 
-o *Comparative Analysis of ATP Dissociation from Rok1p Truncated Variants in the Presence of RNA*
+*Comparative Analysis of ATP Dissociation from Rok1p Truncated Variants in the Presence of RNA*
 
-**American Chemical Society Spring National Meeting, Orlando, FL** **2019**
+ **   American Chemical Society Spring National Meeting, Orlando, FL** **2019**
 
-o *Kinetic Analysis of ATP Dissociation from a Variation of Rok1p: A DEAD-Box Protein*
+*Kinetic Analysis of ATP Dissociation from a Variation of Rok1p: A DEAD-Box Protein*
 
-**Allegheny College Research Seminar: Summer Lectures, Meadville, PA 2019**
+ **   Allegheny College Research Seminar: Summer Lectures, Meadville, PA 2019**
 
-o *The opening and closing of a DEAD-box mystery*
+*The opening and closing of a DEAD-box mystery*
 
-**Allegheny College Summer Research Lecture Series, Meadville, PA** **2018**
+ **   Allegheny College Summer Research Lecture Series, Meadville, PA** **2018**
 
-o *Regulating the DEAD*
+*Regulating the DEAD*
 
 
 
 #### AWARDS, HONORS, SCHOLARSHIPS
 
-**CH Foundation Graduate Recruitment Fellowship** **2020-2021**
+CH Foundation Graduate Recruitment Fellowship 2020-2021
 
-**Helen Jones Foundation Art Talent Scholarship 2020-2021**
+Helen Jones Foundation Art Talent Scholarship 2020-2021
 
-**Undergraduate Research, Scholarship and Creative Activities Gateway Award 2019**
+Undergraduate Research, Scholarship and Creative Activities Gateway Award 2019
 
-**Allegheny College Trustee Scholarship 2016-2020**
+Allegheny College Trustee Scholarship 2016-2020
 
 
 
