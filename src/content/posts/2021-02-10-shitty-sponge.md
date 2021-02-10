@@ -6,6 +6,12 @@ date: 2020-11-07 18:15
 description: Shitty Sponge
 featuredImage: /assets/img_5534.jpg
 ---
-![](/assets/img_5454.jpg)
+### 11’’ block, Silicon Carbide, Titanium Dioxide, and other colorants 
 
-![](/assets/img_5467.jpg)
+### Cone 06 Oxidation
+
+![](/assets/img_5454.jpg "Shitty Sponge")
+
+
+
+![](/assets/img_5467.jpg "Shitty Sponge detail")
