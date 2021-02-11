@@ -15,14 +15,14 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 
 ### EDUCATION
 
-* **Allegheny College Meadville, PA 2020**
+* **Allegheny College, Meadville, PA 2020**
   * Bachelor of Science: Biochemistry
 
 <br>
 
 ### SELECTED GROUP EXHIBITIONS
 
-* *Boxed In*, Virtual Exhibition Hosted by Allegheny Art Galleries **2020**
+* *Boxed In*, Virtual Exhibition Hosted by Allegheny Art Galleries, Meadville, PA **2020**
 * *Previously Unknown Fetishes: Feat. Stuff*, Allegheny Art Galleries, Meadville, PA **2019**
 
 <br>
@@ -30,7 +30,7 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 ### SELECTED RESEARCH PRESENTATIONS
 
 - **Biochemistry Senior Comprehensive Project Lecture 2020**
-  - *Kinetic Analysis of ATP Association to the DEAD-Box Protein Rok1p, in the Presence of RNA*
+  - *Kinetic Analysis of ATP Association to the DEAD-Box Protein Rok1p in the Presence of RNA*
 - **Rustbelt RNA Meeting at Case Western Reserve University, Cleveland, OH** **2019**
   - *Comparative Analysis of ATP Dissociation from Rok1p Truncated Variants in the Presence of RNA*
 - **American Chemical Society Spring National Meeting, Orlando, FL** **2019**
@@ -46,7 +46,7 @@ My work is a continuously evolving experiment, each discovery driving the next. 
 
 * CH Foundation Graduate Recruitment Fellowship 2020-2021
 * Helen Jones Foundation Art Talent Scholarship 2020-2021
-* Undergraduate Research, Scholarship and Creative Activities Gateway Award 2019
+* Undergraduate Research Scholarship and Creative Activities Gateway Award 2019
 * Allegheny College Trustee Scholarship 2016-2020
 
 <br>
