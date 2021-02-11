@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>A bio / portfolio site for artist, Kate Sutter.</p>
+      <p>A bio / portfolio site for artist, Kate Sutter</p>
     </div>
   </footer>
 )
